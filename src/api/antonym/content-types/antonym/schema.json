@@ -1,0 +1,27 @@
+{
+  "kind": "collectionType",
+  "collectionName": "antonyms",
+  "info": {
+    "singularName": "antonym",
+    "pluralName": "antonyms",
+    "displayName": "Antonym"
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "kor1": {
+      "type": "string"
+    },
+    "kor2": {
+      "type": "string"
+    },
+    "ind1": {
+      "type": "string"
+    },
+    "ind2": {
+      "type": "string"
+    }
+  }
+}

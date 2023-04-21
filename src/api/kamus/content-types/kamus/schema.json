@@ -1,0 +1,24 @@
+{
+  "kind": "collectionType",
+  "collectionName": "kamuses",
+  "info": {
+    "singularName": "kamus",
+    "pluralName": "kamuses",
+    "displayName": "kamus"
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "kor": {
+      "type": "string"
+    },
+    "ind": {
+      "type": "string"
+    },
+    "bab": {
+      "type": "biginteger"
+    }
+  }
+}

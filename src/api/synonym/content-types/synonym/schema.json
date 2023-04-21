@@ -1,0 +1,21 @@
+{
+  "kind": "collectionType",
+  "collectionName": "synonyms",
+  "info": {
+    "singularName": "synonym",
+    "pluralName": "synonyms",
+    "displayName": "Synonym"
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "kor": {
+      "type": "string"
+    },
+    "ind": {
+      "type": "string"
+    }
+  }
+}
